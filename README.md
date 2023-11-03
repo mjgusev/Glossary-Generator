@@ -41,7 +41,7 @@ Definitions can span multiple lines, but terms must be separated by a blank line
 
 ## Customization
 
-You can customize the styling of the HTML pages by modifying the `style.css` file.
+You can customize the styling of the HTML pages by modifying the `style.css` file and moving it into your output directory.
 
 ## Contributing
 
