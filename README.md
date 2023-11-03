@@ -31,11 +31,9 @@ This Java application generates a glossary of terms and their definitions as HTM
 The input file should be named terms.txt and contain terms and definitions in the following format:
 
 Term1
-
 Definition for term1.
 
 Term2
-
 Definition for term2.
 
 Definitions can span multiple lines, but terms must be separated by a blank line.
