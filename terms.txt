@@ -1,0 +1,9 @@
+HTML
+A markup language for creating web pages and web applications. Often paired with CSS and JavaScript to create web applications.
+
+CSS
+A style sheet language used for describing the presentation of a document written in a markup language like HTML.
+
+JavaScript
+A high-level, interpreted programming language that conforms to the ECMAScript specification. Often used in conjunction with HTML and CSS.
+
