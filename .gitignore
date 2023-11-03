@@ -1,0 +1,5 @@
+output/
+*.class
+*.log
+*.jar
+.DS_Store
